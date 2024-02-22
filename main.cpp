@@ -22,7 +22,7 @@ public:
    double calculare_media() {
        double sum = 0;
        for (int i = 0; i < NR_CURSURI; i++) {
-           sum += note[i];
+
 
 
     return 0;
